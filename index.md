@@ -1,5 +1,5 @@
               
-<p><mark style="background-color: light green">acción fantasmal a distanci</mark>
+<p><mark style="background-color: green">acción fantasmal a distancia</mark>
                                            
 <div><font color="#00ff00"></font></div><div></div><div><font color="#00ff00"> </font><font color="#00ff00"> </font></div>
 <a href="https://guerrillaradio.github.io/u235/"><div><font color="#00ff00">铀235</font></div><div></div><div><font color="#00ff00"> </font><font color="#00ff00"> </font></div></a>
