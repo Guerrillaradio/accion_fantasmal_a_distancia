@@ -1,5 +1,5 @@
               
-<p><mark style="background-color: green">acción fantasmal a distancia</mark>
+<p><mark style="background-color: #00ff00">acción fantasmal a distanciA</mark>
                                            
 <div><font color="#00ff00"></font></div><div></div><div><font color="#00ff00"> </font><font color="#00ff00"> </font></div>
 <a href="https://guerrillaradio.github.io/u235/"><div><font color="#00ff00">铀235</font></div><div></div><div><font color="#00ff00"> </font><font color="#00ff00"> </font></div></a>
@@ -10,5 +10,5 @@
 
 <p align="right">
 <a
-href="https://es.wikipedia.org/wiki/Embrutecimiento"><div><font color="#00ff00">c:\>format c:</font></div><div></div><div><font color="#00ff00"> </font><font color="#00ff00"> </font></div></a>
+href="https://es.wikipedia.org/wiki/Embrutecimiento"><div><font color="#00ff00">c:\><mark style="bakcground-color: #00ff00">format c:<mark\></font></div><div></div><div><font color="#00ff00"> </font><font color="#00ff00"> </font></div></a>
 
